@@ -53,4 +53,4 @@ To get started with development, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Keskin-Software-Solution/KSS_Community_Game.git
