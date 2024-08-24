@@ -44,6 +44,7 @@ We welcome contributions from developers, artists, designers, and enthusiasts! H
 ### Contribution Guidelines
 
 - **Branching:** Please create a new branch for each feature or bug fix.
+- **Issues:** Check the Issues Tabs for existing Bugs or Todos and Reference the Branch to the Issue.
 - **Pull Requests:** Submit pull requests for any contributions. These will be reviewed before being merged into the main branch.
 - **Code Standards:** Follow our coding standards and comment your code to ensure readability and maintainability.
 
