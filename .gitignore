@@ -13,7 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
-Content/DreamscapeSeries
+Content/DreamscapeSeries/DreamscapeTower/Maps
+Content/DreamscapeSeries/SharedResources/Maps
 Content/Fantastic_Village_Pack/Maps
 Content/Stylized_PBR_Nature/Maps/Stylized_Nature_ExampleScene.umap
 Content/Stylized_PBR_Nature/Maps/Asset_Scene.umap
